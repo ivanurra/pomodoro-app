@@ -35,7 +35,8 @@ export default function Pomodoro() {
       <div className="message">
         {displayMessage && <div>Break time! New session starts in:</div>}
       </div>
-      <div className="timer">
+      <p>Pomodoro Timer</p>
+      <div className="timer container">
         {timerMinutes}:{timerSeconds}
       </div>
     </div>
