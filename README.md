@@ -1,3 +1,3 @@
 ## pomodoro-app
 
-Built with NextJS
+Pomodoro App built with NextJS.
